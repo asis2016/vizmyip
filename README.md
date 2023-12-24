@@ -1,14 +1,11 @@
 # vizmyip
 Visualizes public IP information of your system.
 
-
 ## Installation
-Install `vizmyip` with pip
-
+Install `vizmyip` with pip3
 ```bash
-$ pip install vizmyip
+$ pip3 install vizmyip
 ```
-
 
 ## Run Locally
 After the installation,
