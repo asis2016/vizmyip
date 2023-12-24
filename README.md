@@ -4,7 +4,7 @@ Visualizes public IP information of your system.
 ## Installation
 Install `vizmyip` with pip3
 ```bash
-$ pip3 install vizmyip
+$ pip install vizmyip==0.1.2
 ```
 
 ## Run Locally
